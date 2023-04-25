@@ -2,7 +2,7 @@
 
 **Descripción:** Esta plantilla LaTeX no oficial ha sido desarrollada para cumplir con los estándares exigidos por el documento oficial de la Escuela de Ingeniería Informática (INF) de la Pontificia Universidad Católica de Valparaíso (PUCV).
 
-![LaTeX][latex-badge] [![overleaf-badge]][overleaf-web]
+[![sgarciad-badge]][sgarciad-web] ![LaTeX][latex-badge] [![overleaf-badge]][overleaf-web]
 
 ## Tabla de contenidos <!-- omit from toc -->
 
@@ -116,5 +116,7 @@ Si no tienes experiencia previa con GitHub, te recomendamos revisar guías y tut
 <!-- Esto va siempre al final -->
 
 [latex-badge]: https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white
+[sgarciad-badge]: https://img.shields.io/static/v1?label=sgarciad&message=.me&color=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACrklEQVRYR92WTYjNURjGf4+PkrKywHJKJp8lWUhKSj6GQrKYFU2UyEzkI8RohFjI+IgSZiGhyNcYSlnNaqwojMKO2cmGhEdHd25nzpw77tzLTDl1F/ec97zP7/++73nPEcM8NMz6/B8AtncAU4GnQJekV+VGtuoI2B4DvAMmRqL1kq6VA/E3AJYAHYnYckkPhwrgKLAnEvsJjJLkoQLoBOZFYh2SlpUjHmwGTIHthUCPpJc5h7anAK+TtSZJp8Kc7VCYEySF4syOkgC21wOXgWfACkkfUw+2NwEXkvlaSd22JwEPgNnABklXcgRZANtbgDPRhkfAKklfYye2rwL10Vy3pNrCybgLLI7Wtkk6nUL0A7C9GziWoW2WdKh33vZo4AMwPrI9K2mr7YNAc8bHXkmhaIujD4DtFmB/ZmPIYQjj+wggfN3jxHalpPu2a4A2YEHG1xFJ+3rniwC2TwJNmQ1tkkI99Bm2DwNFR8AXYJykHxFkmqLepVZJjeHPbwDbF4GGjHiLpAO54rHdBcyJ1tol1WVAQzpDWtNxSVKDbF8H1mUMNkoKYP2G7cnAm2Rhu6QQxZx97rQEuxuVAoRopXDTBugXpQEqSYHtm8Da6FOfS5pV4usHTkFUMGUVoe2RwGdgbCRYLKoYItMn8kUYQfzxGNpeBDxJvjY0qTuRn8Efw2jzgI3I9nFgZwTwqdDvv0U+KmtEkYOSrdj2C2B6BHBb0pok9OGRUlkrjiD6XUaFDvc2CX+jpNa0AKu6jCKIPtex7c3AuURspqQQldz5r/w6LuHwXriao7XwAJ2bsy13ruw3oe1g+x0YETk/IWlXuWI5u8EALAXSh2adpPahAlgN3IrEeoAaSeEWrHiUHYGgYHsGML/w65R0vmLlwsZBAVQrVlUN/Avx4HPYI/ALzmIqfIZK9lgAAAAASUVORK5CYII=&style=for-the-badge
+[sgarciad-web]: https://sgarciad.me
 [overleaf-badge]: https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=fff&style=for-the-badge
 [overleaf-web]: https://www.overleaf.com/read/gjqppvvkrjhj##

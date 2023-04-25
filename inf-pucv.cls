@@ -18,7 +18,7 @@
 
 \LoadClass{extarticle}
 
-\RequirePackage[a-1b]{pdfx}
+%\RequirePackage[a-1b]{pdfx}
 \RequirePackage{hyperref}
 \RequirePackage{styles}
 \RequirePackage{accsupp}
@@ -28,7 +28,6 @@
 \addbibresource{referencias.bib}
 
 \RequirePackage[fixed]{fontawesome5}
-\RequirePackage{simpleicons}
 \RequirePackage{ifxetex,ifluatex}
 \RequirePackage{scrlfile}
 \RequirePackage{xparse}
